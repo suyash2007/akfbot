@@ -1,0 +1,9 @@
+{
+	"ip":"FunLandLIFESTEAL.aternos.me",
+	"port": 26143,
+	"name": "bro_suyash2007afk1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 85208520(remember_no_spaces)) 85208520(remember_no_spaces))",
+	"login-cmd":"/login (85208520)"
+}
